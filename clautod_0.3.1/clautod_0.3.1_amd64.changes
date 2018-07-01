@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 01 Jul 2018 15:32:45 -0700
+Source: clautod
+Binary: clautod
+Architecture: source all
+Version: 0.3.1
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clautod    - Consumables-Listing AUTOmation
+Changes:
+ clautod (0.3.1) unstable; urgency=medium
+ .
+   * a2efe2f Release script now moves build artefacts to clauto-releases repo
+Checksums-Sha1:
+ e8774c1f41591ad016f071b10ac7b899b6b5581b 606 clautod_0.3.1.dsc
+ 2d71cd9cb5d3810f36ad465e4efd7fb38c278613 4808 clautod_0.3.1.tar.xz
+ 12564d12c0103364acd98f993dac1b805e3bebba 4407964 clautod_0.3.1_all.deb
+ 35e36c7aac11e7afece51b6382121ea772957a9a 5779 clautod_0.3.1_amd64.buildinfo
+Checksums-Sha256:
+ ac466c602e31a500d1c53d1bafe8ae4a2380a055e007dc50e76c0827cadcc0a3 606 clautod_0.3.1.dsc
+ e695c184fa35ab0544059a7fab13d30b0a07aafff365355e884699fa4d925459 4808 clautod_0.3.1.tar.xz
+ 3c22ae20e59a7fe9ef83c131c8a04a09c0a883bd2b39febde5285713630aff7c 4407964 clautod_0.3.1_all.deb
+ 371405d36bd7d13f37b54d1e1d9beec8460166d10dafb26fc3a426cf6c13ab51 5779 clautod_0.3.1_amd64.buildinfo
+Files:
+ f8b09e966890f10880d4202305850e84 606 main optional clautod_0.3.1.dsc
+ bd7105bb0fded55c325fa419643d9552 4808 main optional clautod_0.3.1.tar.xz
+ e02e36f22260aeb3c19b37ce4ac85c53 4407964 main optional clautod_0.3.1_all.deb
+ 2bbf43e7ac5db6fd409e2b1ab3882d95 5779 main optional clautod_0.3.1_amd64.buildinfo
