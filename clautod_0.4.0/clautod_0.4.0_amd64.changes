@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 01 Jul 2018 21:48:58 -0700
+Source: clautod
+Binary: clautod
+Architecture: source all
+Version: 0.4.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clautod    - Consumables-Listing AUTOmation
+Changes:
+ clautod (0.4.0) unstable; urgency=medium
+ .
+   * d805c7c Added config migration to postinst and wrote new devscripts
+   * fe66de1 Implemented config migration
+Checksums-Sha1:
+ d14be778e11f7f7bf5681a37c315f9de311c415f 606 clautod_0.4.0.dsc
+ c81b594005030e152cbdccd65378877746469f28 6076 clautod_0.4.0.tar.xz
+ 893c2ef50ccb33995d589da598dd85abd1e84e89 4408950 clautod_0.4.0_all.deb
+ 5bb15fd403da999a827c6693d1ac598ad6c6f882 5779 clautod_0.4.0_amd64.buildinfo
+Checksums-Sha256:
+ ebf55ec5512517e84cc09415cac319cd0f61ee5ade5f3b6ded1543dfd7f3f721 606 clautod_0.4.0.dsc
+ c2bab5afae58b32286f3ff0760b6c3d7b7d7949761dc3333b58069c5d7fdb5a6 6076 clautod_0.4.0.tar.xz
+ 345eb736f7a4821eee3687f6958ca914425463989d2420770be617b169024afc 4408950 clautod_0.4.0_all.deb
+ 71e3c2234ecfac303419cb15eb99ceb078f7870e42772b2208af316cfa00e03b 5779 clautod_0.4.0_amd64.buildinfo
+Files:
+ 653de9ffa0181e997b8465ca5005e55f 606 main optional clautod_0.4.0.dsc
+ 1a30b6b60d5c529ce10e06c0c6a205e1 6076 main optional clautod_0.4.0.tar.xz
+ d2c150e9b72551e4953e83a9d54320ab 4408950 main optional clautod_0.4.0_all.deb
+ 4785ad1b832aa169de2e90d4a94a48ea 5779 main optional clautod_0.4.0_amd64.buildinfo
