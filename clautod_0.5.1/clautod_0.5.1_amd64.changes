@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 05 Jul 2018 22:35:24 -0700
+Source: clautod
+Binary: clautod
+Architecture: source all
+Version: 0.5.1
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clautod    - Consumables-Listing AUTOmation Daemon
+Changes:
+ clautod (0.5.1) unstable; urgency=medium
+ .
+   * de4bebf Debian packaging fixes
+Checksums-Sha1:
+ e4e77f9fd567ec939cc0591ae47fada3485728a4 571 clautod_0.5.1.dsc
+ 4a6a92a88e926c236bf09e85f06630954e8d7c8d 5552 clautod_0.5.1.tar.xz
+ 073384ae8804e6f882c8776a05cc8f21dbe9226d 4608 clautod_0.5.1_all.deb
+ c31dd94a7666fcf1a3cd5eb6a662c5c1e815b76f 4830 clautod_0.5.1_amd64.buildinfo
+Checksums-Sha256:
+ 5bd2b581dd1091d1a03c3abab7a54fcd9e9d0fe85f0a6218d7ed739a5621aadd 571 clautod_0.5.1.dsc
+ 7465402f8e357842b50f6c2a4df02beae4f1377428f1fb741960494ecc9cd22d 5552 clautod_0.5.1.tar.xz
+ d8ebb9226794e02226acd85d7823cacf4f567e183f71e97078812793d597f28e 4608 clautod_0.5.1_all.deb
+ 482648b8dc884ee86ba314c0ade2ca48f32b07f6355360405613851154aee43c 4830 clautod_0.5.1_amd64.buildinfo
+Files:
+ 67445d411277077cbaf2391d4e8f920a 571 main optional clautod_0.5.1.dsc
+ 5c91b25e9e39312736ce9fdf8eb92987 5552 main optional clautod_0.5.1.tar.xz
+ 470fec3c080f87712b6b46312ccf123b 4608 main optional clautod_0.5.1_all.deb
+ 01141e6f54452dae9162399f13f5b5ca 4830 main optional clautod_0.5.1_amd64.buildinfo
