@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sat, 07 Jul 2018 00:34:10 -0700
+Source: clauto-common
+Binary: clauto-common
+Architecture: source all
+Version: 0.6.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clauto-common - Consumables-Listing AUTOmation Common Code
+Changes:
+ clauto-common (0.6.0) unstable; urgency=medium
+ .
+   * a2bf8ff Refactored everything for better organization, removed clautod references from log.py
+   * df16073 clauto_common Python lib now has an underscore instead of a dash
+Checksums-Sha1:
+ f421ae89696698113be730ab4cc6167c4e2aa05e 651 clauto-common_0.6.0.dsc
+ 6384a89faeb55bba645d7cf41376b761750e5a58 12220 clauto-common_0.6.0.tar.xz
+ fb4dc22c504979c6f360d74e16416efad3325b65 4412490 clauto-common_0.6.0_all.deb
+ 19c1d1137b00fe16897d26d2580ef0be4f5a59b3 5827 clauto-common_0.6.0_amd64.buildinfo
+Checksums-Sha256:
+ 0393fcb7084eca0f59a5a04dc8aaf46ca34e50da8379fc6614d69a54a94630d8 651 clauto-common_0.6.0.dsc
+ b60c7bdc8294f50e0a49b6357219e6e35ed962dacdfa27a2df68b7d40d7fc961 12220 clauto-common_0.6.0.tar.xz
+ 7438bd89b2fa9438f8f2b05efb375cf56ec3874ce382482d118a54277c7fb5a2 4412490 clauto-common_0.6.0_all.deb
+ f6f1cbb665eb7eaf1e13c9d15cef4a406cf024bcc3202e98559bcbb2a291b954 5827 clauto-common_0.6.0_amd64.buildinfo
+Files:
+ 634777673fa7ba8af68f9e317dedf602 651 main optional clauto-common_0.6.0.dsc
+ e2824526c9e1884e6f6e881640c6ee14 12220 main optional clauto-common_0.6.0.tar.xz
+ 270bc0f381417fa0486ac269bce074f8 4412490 main optional clauto-common_0.6.0_all.deb
+ dc638e3630b7377144960c00f8942a43 5827 main optional clauto-common_0.6.0_amd64.buildinfo
