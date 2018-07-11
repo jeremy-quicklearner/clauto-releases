@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 10 Jul 2018 22:40:23 -0700
+Source: clauto-common
+Binary: clauto-common
+Architecture: source all
+Version: 0.6.2
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clauto-common - Consumables-Listing AUTOmation Common Code
+Changes:
+ clauto-common (0.6.2) unstable; urgency=medium
+ .
+   * b05dced Switched from Borg pattern to Singleton pattern
+Checksums-Sha1:
+ 0dc33258fcd114e7a21b2b2d5dbc36614877be3a 648 clauto-common_0.6.2.dsc
+ ad341774d5ae68d8a2c3f12d040696f374488265 9024 clauto-common_0.6.2.tar.xz
+ 70473e96eb3e32e29889f37461cfb69cae4d1e16 4415076 clauto-common_0.6.2_all.deb
+ b169c8c95c2bdfb51d9653dcafa2129862d472e2 5827 clauto-common_0.6.2_amd64.buildinfo
+Checksums-Sha256:
+ 8c601f23892bc0e604ae06e2ed91a5c7b9157c35a075205c7981d0e8e994a59d 648 clauto-common_0.6.2.dsc
+ 1cce7423a9fd14f61b105ed356cf2c676ac70a8d275c259ac7dfc55b0592874d 9024 clauto-common_0.6.2.tar.xz
+ f80aa35d0a85ee0ec51c9455cdbd8c9ca2a9e0e244b9a46d529041421ce3cd23 4415076 clauto-common_0.6.2_all.deb
+ 29fb5c102b077cd6a5d2422de7e52156a44b0469ce94a25a38e7132531a3231a 5827 clauto-common_0.6.2_amd64.buildinfo
+Files:
+ 300181da5c6b7871df3542f26d1877bb 648 main optional clauto-common_0.6.2.dsc
+ dd363cf46c271a09d0c51f7cb42cb0e5 9024 main optional clauto-common_0.6.2.tar.xz
+ e673cb0c554c268c11c3ea47a82f8c1a 4415076 main optional clauto-common_0.6.2_all.deb
+ 8af1b734a1c9af8c36e1b4490a869fc3 5827 main optional clauto-common_0.6.2_amd64.buildinfo
