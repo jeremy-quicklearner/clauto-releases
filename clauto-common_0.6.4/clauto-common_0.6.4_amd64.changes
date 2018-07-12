@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 11 Jul 2018 20:20:10 -0700
+Source: clauto-common
+Binary: clauto-common
+Architecture: source all
+Version: 0.6.4
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clauto-common - Consumables-Listing AUTOmation Common Code
+Changes:
+ clauto-common (0.6.4) unstable; urgency=medium
+ .
+   * d67f878 Added back Flask dependency because clautod's 100% Debian-managed packaging is unaware of the virtualenv
+Checksums-Sha1:
+ 4e936c7db2890bbafd0e8e853612fb2dd176c911 648 clauto-common_0.6.4.dsc
+ 80ab91062fdf14af061506a698aa57dc4b658601 9296 clauto-common_0.6.4.tar.xz
+ 58563088fddb7aeba141e0839b313cb53169b5af 4435394 clauto-common_0.6.4_all.deb
+ 0c497e3e6864db563e9c9ce35578bd034ffddd20 5827 clauto-common_0.6.4_amd64.buildinfo
+Checksums-Sha256:
+ 34ecd56b6f1894d73b47c53f587f8eb03f40417e8423e0c9cad6bf24766bcdf8 648 clauto-common_0.6.4.dsc
+ 5266c7ddddb389b7f922cca05b27837dae31b83579b6a605843dc026febebc2f 9296 clauto-common_0.6.4.tar.xz
+ b5cb3126604263a7ac6ec61de6c512418e9b40902d1383b8231afcb3fe168000 4435394 clauto-common_0.6.4_all.deb
+ 61379c366295f6c19d39e025c2e7a56e903841586285d35e525687280bc4c7dc 5827 clauto-common_0.6.4_amd64.buildinfo
+Files:
+ f39f6fb0b71bfb5a9b26fd9f9b21e6ea 648 main optional clauto-common_0.6.4.dsc
+ 9b9074a5cf4748845f4b040c1c423e70 9296 main optional clauto-common_0.6.4.tar.xz
+ 412873be13b5cc81e94e84ddd602bfa2 4435394 main optional clauto-common_0.6.4_all.deb
+ f5452da5e7ef95a7f0873eaeec4b656c 5827 main optional clauto-common_0.6.4_amd64.buildinfo
