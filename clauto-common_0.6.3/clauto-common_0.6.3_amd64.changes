@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 11 Jul 2018 19:15:26 -0700
+Source: clauto-common
+Binary: clauto-common
+Architecture: source all
+Version: 0.6.3
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clauto-common - Consumables-Listing AUTOmation Common Code
+Changes:
+ clauto-common (0.6.3) unstable; urgency=medium
+ .
+   * f41848d Added dependency on configargparse
+   * ed2ea25 Removed dependency on Flask as it is now in clautod
+Checksums-Sha1:
+ 408c82a83c5a026b1ea1d9b06d18f948d1172f4d 648 clauto-common_0.6.3.dsc
+ 1901ffbe65f9aaed5bb1b40fef0adae9c7b73ed6 9156 clauto-common_0.6.3.tar.xz
+ 651fb4bcaaccf69cef8bf7b220dafd5f9e73c023 3673090 clauto-common_0.6.3_all.deb
+ d356792e0d1657f0b49c7b50bc1fb41ae200eacc 5827 clauto-common_0.6.3_amd64.buildinfo
+Checksums-Sha256:
+ ee808829ad492ee2fcdae6affaa9109caafe6b22fa79905058ee63c1b312bc77 648 clauto-common_0.6.3.dsc
+ 90cce94069dfd07a17b1559e926fa8d7b8cfc4ff1a23ef76118acf38c0f2a292 9156 clauto-common_0.6.3.tar.xz
+ 7de78cf18af8a6b2c9b7d35b967ea6175b954bf7ae061700634f7716d4e0c924 3673090 clauto-common_0.6.3_all.deb
+ 1bd4ef29266a64ed4fa711c43cca00fd5f0f80ac1d37cf51d5ca8b541383f501 5827 clauto-common_0.6.3_amd64.buildinfo
+Files:
+ fe336086e386bdd3a3adc7869f9d40d6 648 main optional clauto-common_0.6.3.dsc
+ 64448c25207b38573855a7070810d2f0 9156 main optional clauto-common_0.6.3.tar.xz
+ 7f017e413e89a9bf9094544fa5158a33 3673090 main optional clauto-common_0.6.3_all.deb
+ d975acfba2f726f5d043104062fd68c2 5827 main optional clauto-common_0.6.3_amd64.buildinfo
