@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 14 Jul 2018 20:05:21 -0700
+Source: clautod
+Binary: clautod
+Architecture: source all
+Version: 0.6.1
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clautod    - Consumables-Listing AUTOmation Daemon
+Changes:
+ clautod (0.6.1) unstable; urgency=medium
+ .
+   * 733eb9d Added dependencies on openssl and pyopenssl
+Checksums-Sha1:
+ 5b2bbd5f4aed703c95460498dc476b56630f7337 571 clautod_0.6.1.dsc
+ 60502f054b4e1b963fe46bdf4d1804e738c14c33 9032 clautod_0.6.1.tar.xz
+ aef65ec33fd5d3a4fc6ed8fa72e75a3efc2201df 8284 clautod_0.6.1_all.deb
+ 2f2cf227e7cf4a20ee1508c7746deec337c00f01 4828 clautod_0.6.1_amd64.buildinfo
+Checksums-Sha256:
+ 9053a7ffd8d2e44e64a87560fdbbfb3aa46995ece7803cfe74f3f432cd3a1cb4 571 clautod_0.6.1.dsc
+ 5db04575079c921b88ddf500a65901db9dbfa0bc26ad8ff2b265b6c43970b954 9032 clautod_0.6.1.tar.xz
+ 9629d81ece77fa38585948f48733c314add0aa766ba766ff9e096578b526b14a 8284 clautod_0.6.1_all.deb
+ 2c6f25e3a6124fc1916435391ca279ddc7e6762f484c074b55755059904746ea 4828 clautod_0.6.1_amd64.buildinfo
+Files:
+ bd06b2404f27f64dddf2d3c04040234d 571 main optional clautod_0.6.1.dsc
+ 87b6cb10b0289ac178aad4f601ef75c9 9032 main optional clautod_0.6.1.tar.xz
+ f40b1ec1ee020438f5dfcc1f1cea63de 8284 main optional clautod_0.6.1_all.deb
+ 9f9dba27bbcd16082cfb066ce98949aa 4828 main optional clautod_0.6.1_amd64.buildinfo
