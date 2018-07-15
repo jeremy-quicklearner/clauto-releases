@@ -1,0 +1,36 @@
+Format: 1.8
+Date: Sat, 14 Jul 2018 19:29:36 -0700
+Source: clautod
+Binary: clautod
+Architecture: source all
+Version: 0.6.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clautod    - Consumables-Listing AUTOmation Daemon
+Changes:
+ clautod (0.6.0) unstable; urgency=medium
+ .
+   * fc49811 Updated dependency on clauto-common to 0.6.6
+   * 178e85f Added admin user and lots of DB infrastructure
+   * f57e5c5 Config file's contents are now propagated to every layer
+   * 081cf6c Added general layer classes and instantiated them from clautod.py
+   * 9b6bd61 Code cleanup and skeleton for entry point
+   * 7f56301 Improvements to devscripts
+Checksums-Sha1:
+ 30687b7b14b554caf01934e406fc12bb135d9dd7 571 clautod_0.6.0.dsc
+ db9e437255188a14caae366c9b10904239f8793c 9116 clautod_0.6.0.tar.xz
+ d9d082d02be6ebb6174c75e6f22f95edbd36bc0d 8416 clautod_0.6.0_all.deb
+ de5272ed3769dc3b86ef1c3a35de5c29e193a5c2 4828 clautod_0.6.0_amd64.buildinfo
+Checksums-Sha256:
+ a1e369ab994a164205a089bf4c9a151c888692d3f49ac86ea59b832097a89bb1 571 clautod_0.6.0.dsc
+ fbcc95670d26e2a64d84eecd997c0975c24c6ee6879c9e6214ad75c27faf701b 9116 clautod_0.6.0.tar.xz
+ 02ec51400b4e14992889ec01ca61cf523290b592446191f14a50b7a67436c8d2 8416 clautod_0.6.0_all.deb
+ 2fad994e38ada68615a0ba6be0eef8c8fc9c498a30f1c7e0109625fcaf81415f 4828 clautod_0.6.0_amd64.buildinfo
+Files:
+ d810c6712964203bf3ce93063201e63c 571 main optional clautod_0.6.0.dsc
+ 3234b8b91581276aada0dc812bf445fd 9116 main optional clautod_0.6.0.tar.xz
+ 9d05470508ad97222d25332a16d53238 8416 main optional clautod_0.6.0_all.deb
+ 0f8cafc21df395fd5bfd050ceb2a9e76 4828 main optional clautod_0.6.0_amd64.buildinfo
