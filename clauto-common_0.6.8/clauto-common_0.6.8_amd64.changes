@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 14 Jul 2018 20:12:26 -0700
+Source: clauto-common
+Binary: clauto-common
+Architecture: source all
+Version: 0.6.8
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clauto-common - Consumables-Listing AUTOmation Common Code
+Changes:
+ clauto-common (0.6.8) unstable; urgency=medium
+ .
+   * be4c8b4 postinst script now creates the default log directory
+Checksums-Sha1:
+ 1aae171aef148426f00053cdaa22370c74e1b4c6 648 clauto-common_0.6.8.dsc
+ 7d4ad3927537a56b469d9d02470512db6c39c123 9896 clauto-common_0.6.8.tar.xz
+ 9d80d396b66ccfd491aaef383fdf108d7b4e4b2e 7178330 clauto-common_0.6.8_all.deb
+ 7224a85d044c79d01b38d508bfeee39aa98b1157 5832 clauto-common_0.6.8_amd64.buildinfo
+Checksums-Sha256:
+ 6474921ec05e2230705ab7dd4f5c19dc63a8487b4ab9bd0d42b8d071338f0e70 648 clauto-common_0.6.8.dsc
+ 8f7d9c850f36ad0531716104f4511da9bcc7d8e0cb2147fdb951e607c887e75d 9896 clauto-common_0.6.8.tar.xz
+ 92bcccf24722a78b6fd6dfb4a813859b0c35d6b28b117ae62d428beb1e3241ff 7178330 clauto-common_0.6.8_all.deb
+ 24353676ce55fdb90e3512819739e7c65172370191954783202dcdab65225892 5832 clauto-common_0.6.8_amd64.buildinfo
+Files:
+ 99245340dbd83c29c16ff28ecad92436 648 main optional clauto-common_0.6.8.dsc
+ 755486b33232b49686252870bb8a79aa 9896 main optional clauto-common_0.6.8.tar.xz
+ e8e1d274d9028e7d9c2f68e475547d56 7178330 main optional clauto-common_0.6.8_all.deb
+ dfe9d2a05cbcf9df3b48c3580fbfc92c 5832 main optional clauto-common_0.6.8_amd64.buildinfo
