@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 22 Jul 2018 11:14:38 -0700
+Source: clauto-common
+Binary: clauto-common
+Architecture: source all
+Version: 0.6.11
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clauto-common - Consumables-Listing AUTOmation Common Code
+Changes:
+ clauto-common (0.6.11) unstable; urgency=medium
+ .
+   * 94bba96 Added dependency on pyjwt, and other small additions
+   * 506588c Streamlined Singletons and added new exceptions
+Checksums-Sha1:
+ 7b7e55acb8281dc2c54f77acbb43618223f68978 655 clauto-common_0.6.11.dsc
+ 75ae11bcb0ae769db1089bbfe411ceb7efa590b2 10164 clauto-common_0.6.11.tar.xz
+ 12a8305aad22ebd1ebacb508871af7c040fc20c0 10016406 clauto-common_0.6.11_all.deb
+ db94c196053053bc7800ffad77dba4ae7f5d2db8 5842 clauto-common_0.6.11_amd64.buildinfo
+Checksums-Sha256:
+ 8ea7258fa4ea006ce771635d0a28785bff29c99ea76c115f244bf66f2076487b 655 clauto-common_0.6.11.dsc
+ f52f9450ff7a12a3c0a65444880bfc38a90eae39af153bc6473067536a1141f7 10164 clauto-common_0.6.11.tar.xz
+ c76786b6d89072c681c6f589f326e72c54d0f6d6031fda977b93e59bddb3eaa7 10016406 clauto-common_0.6.11_all.deb
+ 10a1a63458631f7b3b8c41acda9a7d422121c3ea88308aa13734a2b9704e3388 5842 clauto-common_0.6.11_amd64.buildinfo
+Files:
+ fa4595ddbf2f7a59c52d7092ad7fadde 655 main optional clauto-common_0.6.11.dsc
+ fe684e7de58061a0981b5e147535b425 10164 main optional clauto-common_0.6.11.tar.xz
+ 10d7f05031c1844487e123c6a02d5b98 10016406 main optional clauto-common_0.6.11_all.deb
+ 975c63cf714b963c7a6efecb6840e5b1 5842 main optional clauto-common_0.6.11_amd64.buildinfo
