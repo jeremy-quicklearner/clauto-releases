@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sun, 22 Jul 2018 19:54:44 -0700
+Source: clautod
+Binary: clautod
+Architecture: source all
+Version: 0.7.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clautod    - Consumables-Listing AUTOmation Daemon
+Changes:
+ clautod (0.7.0) unstable; urgency=medium
+ .
+   * 2ce0059 Added privilege levels and session tokens
+   * a62b049 Flask app now runs in a WSGI Server
+   * ecca78f Config is now a signelton
+Checksums-Sha1:
+ 5195a11c1a566068514c1caa5abe52b831e2ff76 574 clautod_0.7.0.dsc
+ 3853fe8d97f54c77f59015ae2cf4aa1a4a32c2fd 12988 clautod_0.7.0.tar.xz
+ 767939a9633861c3fbb8418d90bfe132dd441f25 12422 clautod_0.7.0_all.deb
+ c66fa05291f4693cca49b5a129de0deeef2cf932 4831 clautod_0.7.0_amd64.buildinfo
+Checksums-Sha256:
+ 26556b2f8e3c0b37005bc02eab6d5e504b92b48a78b9bf932473d3a39c0a7397 574 clautod_0.7.0.dsc
+ 5ad55c04ae26c1b2afac102608f5542173651354070e131feb52039ba7167f47 12988 clautod_0.7.0.tar.xz
+ 8a56e52124f05fe0afe1e614653af4d569b90c065cd7b8f2ef269544b7869227 12422 clautod_0.7.0_all.deb
+ 376f28bbe3ddeb0656cd4c2e975ad9e5784a2dccf5f27ce246dab2bdaea9286e 4831 clautod_0.7.0_amd64.buildinfo
+Files:
+ c57df7487bcae4c0849a61ccda5152dd 574 main optional clautod_0.7.0.dsc
+ fff920e3e066c734a1d13bab03915470 12988 main optional clautod_0.7.0.tar.xz
+ 260f66efadf739e938991668a4a80285 12422 main optional clautod_0.7.0_all.deb
+ ba0b6641351d18ba05a48a69c1d90178 4831 main optional clautod_0.7.0_amd64.buildinfo
