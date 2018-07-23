@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Jul 2018 19:50:40 -0700
+Source: clauto-common
+Binary: clauto-common
+Architecture: source all
+Version: 0.6.12
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clauto-common - Consumables-Listing AUTOmation Common Code
+Changes:
+ clauto-common (0.6.12) unstable; urgency=medium
+ .
+   * 38382e0 Support for clautod
+Checksums-Sha1:
+ f4b71854090cc52a71b164679790aa278edc2421 655 clauto-common_0.6.12.dsc
+ 4cf89ab16bb4cfa5617bb289538d1c69f8e77ed5 10288 clauto-common_0.6.12.tar.xz
+ 3f5e708227ab2d1a8e76d985e0f7de87914d84bd 10016338 clauto-common_0.6.12_all.deb
+ 38f3a2bed68dc59f652dd9e267c6d7ee6eae265f 5842 clauto-common_0.6.12_amd64.buildinfo
+Checksums-Sha256:
+ a259584d0dafb02d6af9b3b34018a2ceb6308087951451bd88c53ea39791d533 655 clauto-common_0.6.12.dsc
+ 1bc15457ec03ef793588c6254baa0f30b007b535580f702b11e8c6874f2e056f 10288 clauto-common_0.6.12.tar.xz
+ d93a730565cd669167abcbecc4ae739dffcd790187144b0cf7b44a7dd1991f98 10016338 clauto-common_0.6.12_all.deb
+ 91e1c18fec3b0039fa5c175975ca825f814bec80a35908e79bde859ef7e671d8 5842 clauto-common_0.6.12_amd64.buildinfo
+Files:
+ 4912a74802194ffad8ebefcd4012e010 655 main optional clauto-common_0.6.12.dsc
+ b79fd4a93e0b285bd5b4fdbbaaa1252d 10288 main optional clauto-common_0.6.12.tar.xz
+ 02dd0b7470cd32db1c207699bc59e295 10016338 main optional clauto-common_0.6.12_all.deb
+ 0fda49d8328a3c0cd4f54ee0d0c67940 5842 main optional clauto-common_0.6.12_amd64.buildinfo
