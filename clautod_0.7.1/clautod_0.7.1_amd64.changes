@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Sun, 29 Jul 2018 00:18:49 -0700
+Source: clautod
+Binary: clautod
+Architecture: source all
+Version: 0.7.1
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clautod    - Consumables-Listing AUTOmation Daemon
+Changes:
+ clautod (0.7.1) unstable; urgency=medium
+ .
+   * Implemented DELETE /user handling
+   * Redesigned entities to use constraints
+   * Streamlined Request parameter parsing with wildcards
+   * Implemented PATCH /user handling
+   * Implemented GET /user handling
+Checksums-Sha1:
+ 8cb35be77e368339cffcf9184f35c13d5a6c4932 574 clautod_0.7.1.dsc
+ 3eb676c9e92fcf1999d9e548b530785dfe7a4c6a 16356 clautod_0.7.1.tar.xz
+ f15d7783a16da4adeeb33bed1ee96fd52503cd63 15856 clautod_0.7.1_all.deb
+ ab2401194fa45910d3f0635c671d4f2fffec2db5 4831 clautod_0.7.1_amd64.buildinfo
+Checksums-Sha256:
+ 369d2519e6014bfc80a0c663458d0a0fed41d058703dc5d5787ee68a67fad0e1 574 clautod_0.7.1.dsc
+ cb2233d5ad11e203ea4365bc8e5813cb47505ea4079e01e0c7734a3c2bbd4f29 16356 clautod_0.7.1.tar.xz
+ 6cfbbcef7af4010c25d2fcd7eda2be612d2a6630d2d843d81d894225fb0f3d55 15856 clautod_0.7.1_all.deb
+ f89f538be8022da0d0aa82a216e1e55ef62128385c55edab642b9a82347ef7a1 4831 clautod_0.7.1_amd64.buildinfo
+Files:
+ 2fdff73816b249b877b9b855b2bfdc39 574 main optional clautod_0.7.1.dsc
+ 243dcdf9f901173ef069c716c07cc19e 16356 main optional clautod_0.7.1.tar.xz
+ 6ee2c26dc85f152b5638be0e33272576 15856 main optional clautod_0.7.1_all.deb
+ 30c09b079d788a09786ac65ba3f4b993 4831 main optional clautod_0.7.1_amd64.buildinfo
