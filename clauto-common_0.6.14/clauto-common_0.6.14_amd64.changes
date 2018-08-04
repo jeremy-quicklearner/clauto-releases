@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 03 Aug 2018 23:32:38 -0700
+Source: clauto-common
+Binary: clauto-common
+Architecture: source all
+Version: 0.6.14
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clauto-common - Consumables-Listing AUTOmation Common Code
+Changes:
+ clauto-common (0.6.14) unstable; urgency=medium
+ .
+   * 0ca8417 Changed output prefix in deplocal
+Checksums-Sha1:
+ 010fe304a103ef2271ea33d7fd41be5380080973 655 clauto-common_0.6.14.dsc
+ ee037c3a714c9c79f472ab3f2aeff150bb53f406 10936 clauto-common_0.6.14.tar.xz
+ d0633bd4ca08367bc498aa1d92b71e39f5b8aca0 10015764 clauto-common_0.6.14_all.deb
+ 0eeb35ad041beb28ecb3b04e7b1774d1b416c514 5842 clauto-common_0.6.14_amd64.buildinfo
+Checksums-Sha256:
+ 2d4279e2ca0796cac369741d88ec563208aeb9e7483a56c149b1180c7728de6b 655 clauto-common_0.6.14.dsc
+ 20612a39fe0cdfdf730ef6a752a118120b457fe6db1939e41912f6b2edfdb08c 10936 clauto-common_0.6.14.tar.xz
+ 9ae169a34e2b5e76bf07ba0035409b380a5c4e348dbbe22fa12ac150d1d47feb 10015764 clauto-common_0.6.14_all.deb
+ 405755e827d309ac3845896fc80c2b98511395ae3315a8cd194b748ae3c3c619 5842 clauto-common_0.6.14_amd64.buildinfo
+Files:
+ 5addb9b7ce3ea459224340c1c4539db2 655 main optional clauto-common_0.6.14.dsc
+ 065992d162bd12e029704508ccacb4d5 10936 main optional clauto-common_0.6.14.tar.xz
+ 8c6f7889318eb0127b90eb9c558512af 10015764 main optional clauto-common_0.6.14_all.deb
+ 4a931d443901d96b7811ad2e733336b6 5842 main optional clauto-common_0.6.14_amd64.buildinfo
