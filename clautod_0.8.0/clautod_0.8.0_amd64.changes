@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 09 Aug 2018 20:35:12 -0700
+Source: clautod
+Binary: clautod
+Architecture: source all
+Version: 0.8.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Changed-By: Jeremy Lerner <jeremy.cpsc.questions@gmail.com>
+Description:
+ clautod    - Consumables-Listing AUTOmation Daemon
+Changes:
+ clautod (0.8.0) unstable; urgency=medium
+ .
+   * Added GET /api/ping_slow
+   * Added Web GUI
+Checksums-Sha1:
+ ae558760cb1c8e2e0cc77faa66b3646eb4ade30c 583 clautod_0.8.0.dsc
+ e6917c301bdf75d3da03a7b6964608e24e17ef5c 10537880 clautod_0.8.0.tar.xz
+ 88211d2ef8939429bc089772677d10ec85a0c748 284266 clautod_0.8.0_all.deb
+ 6b864dc2a6c93bf2db3324ed6fe5bcdefba81389 4841 clautod_0.8.0_amd64.buildinfo
+Checksums-Sha256:
+ 5ebeba5d494e5da03381a3422d28b6feb55440f895d90cfc8ee51b3a83d2be44 583 clautod_0.8.0.dsc
+ 4dbb84b59dbe2d449c24bfeb07d29e14fd5af144f9a2da5b631591bc0e8735f5 10537880 clautod_0.8.0.tar.xz
+ bab4d25a3d290d8ee9eba0e1aa86474b895d634dac3dfb002dfae81e2706ea51 284266 clautod_0.8.0_all.deb
+ 4691dcae28841ede9717e38a1121c995dccfbd196389882c0c8f7ba29c493395 4841 clautod_0.8.0_amd64.buildinfo
+Files:
+ 4093f9696b4fd77693902a55ce96ca0a 583 main optional clautod_0.8.0.dsc
+ a6ce6e93dfa44dbaf02897fbecf3ef82 10537880 main optional clautod_0.8.0.tar.xz
+ b60d6c019d6d023ef7d7ee8a61fad366 284266 main optional clautod_0.8.0_all.deb
+ 199d198c559fb0e545a859fa36c31332 4841 main optional clautod_0.8.0_amd64.buildinfo
